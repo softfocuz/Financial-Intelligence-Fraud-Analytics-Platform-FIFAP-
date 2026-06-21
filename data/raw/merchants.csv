@@ -1,0 +1,101 @@
+merchant_id,name,category,risk_level,country,location,created_at
+073e0f06-f6d9-460f-8a6b-3389291150ca,"Sims, Williams and Johnson",Food,LOW,Philippines,Jessicafurt,2026-01-20
+c7c06d60-ac39-4796-942c-4e6bedb6b137,Nolan PLC,Travel,LOW,Philippines,Brendafurt,2026-03-20
+9c2f6d54-c55e-4c8a-ad5c-22eb48d7ed2b,Gonzalez-Wilson,Healthcare,LOW,Philippines,Dylanstad,2026-06-10
+ce5f8bf7-8573-45dd-8162-a04fcd6720e8,"Foster, Hall and Johnson",Travel,LOW,Philippines,Richardview,2026-04-22
+9b39da38-f5b9-4da3-8225-d3ca88123041,"Montgomery, Miller and Anderson",Retail,LOW,Philippines,Stevenville,2026-05-01
+4264dd35-6843-4356-b060-2487cfc3b12f,Robertson-Morris,Food,LOW,Philippines,Mcclainbury,2026-05-26
+786b20bb-dbe2-49c0-97a4-9018a52e51b5,"Martinez, Maxwell and Clark",Food,LOW,Philippines,Abigailstad,2026-02-01
+f8d9d482-040d-4454-a111-375f38519992,Ballard-Washington,Gambling,HIGH,Philippines,Brownshire,2026-05-27
+815cbbc0-6a37-4e4e-afc5-9dccbe64f43c,Green-White,Retail,LOW,Philippines,Port Christopherburgh,2026-01-10
+c41f8ce6-b040-4bbb-846a-b8d6a4803463,"Hall, Johnson and Bates",Food,LOW,Philippines,Morganbury,2026-05-13
+fbbbc7f8-4596-40bc-ab6a-5472ce023fde,Hudson-Morales,Retail,LOW,Philippines,Anitaville,2026-02-23
+7d7e9327-e05b-4c21-9103-bfb48dc73fd6,Miller LLC,Retail,LOW,Philippines,Bentonville,2026-02-16
+5d07c8a2-23e4-4ae3-9a3b-b8315db3dc60,Harris-Jones,Food,LOW,Philippines,Philipfort,2026-04-11
+8c1e9786-8a3b-4661-93c7-6c58fb805ca5,Garcia-Miller,Healthcare,LOW,Philippines,North Laurenside,2026-02-25
+ae3de63d-77aa-4c02-8f52-f409f50d4205,Watson-Thompson,Food,LOW,Philippines,East Andreaton,2026-05-25
+ec1dc165-c7c9-4468-a8ed-4e006b2f3a11,Smith-Brown,Retail,LOW,Philippines,North Melinda,2026-03-03
+268a852b-2429-49ec-8ce3-951b5738660e,Hill LLC,Electronics,LOW,Philippines,North Jasmine,2026-04-10
+1fce0d38-4c35-4360-aac4-69c65361d8ea,Morris-Olson,Retail,LOW,Philippines,North Victor,2026-05-15
+2bd2d389-8b53-4a8c-a3c0-3b338f079a10,Melton Ltd,Travel,LOW,Philippines,Raybury,2026-04-17
+73355cba-bac4-4d78-b08a-c3b2082a2ee9,"Soto, Roberson and Payne",Retail,LOW,Philippines,West Mark,2026-01-04
+59aa1b83-69cd-4788-9d2c-6894505e2ef5,Coffey Inc,Travel,LOW,Philippines,North Kennethhaven,2026-06-07
+1a70c41c-c684-47ee-a6c9-83d8a22a46b1,Garner PLC,Retail,LOW,Philippines,Port Maryberg,2026-03-21
+30b69995-3c8d-4fe5-a4ad-c11a76f2f035,"Johnson, Tran and Black",Travel,LOW,Philippines,Thomasside,2026-03-22
+0e1d0e3f-020d-4cf4-ba0a-dad0bceb5ae7,Bartlett-Wallace,Retail,LOW,Philippines,Humphreytown,2026-03-25
+ffe0feea-8295-4f76-afc0-2f7d0bcb468d,"Edwards, Mason and Hamilton",Wire Transfer,HIGH,Philippines,Pearsonland,2026-05-13
+c7c6f240-e274-4df6-8a3a-fc007cae64df,Stokes-Small,Electronics,LOW,Philippines,West Ronniebury,2026-01-28
+e841213d-1feb-4b99-b92b-37ac2745d8ed,"Travis, Davis and Jones",Food,LOW,Philippines,West Amandaville,2026-02-22
+5c54fadb-5a0e-4b1d-9be6-eee3738ddf06,"Gonzalez, Butler and Ramirez",Travel,LOW,Philippines,Phillipsshire,2026-05-23
+0e9a98b4-ca5d-41aa-9f8d-c566c3f900c9,"Mcfarland, Rich and Russell",Food,LOW,Philippines,Lucasfurt,2026-03-24
+a2ac468e-92a5-4dc2-8713-d4705c0ae07f,Trujillo and Sons,Retail,LOW,Philippines,Port Terriside,2026-06-12
+e6529bf4-d46f-4c31-8032-e9158291d941,"Lee, Hoffman and Ramirez",Electronics,LOW,Philippines,Jennifertown,2026-04-21
+39d88ea9-65df-480c-95f0-18b7556470cd,Jensen-Coleman,Food,LOW,Philippines,Robinsonmouth,2026-03-18
+c67c494d-6610-46ed-85cd-2d1ab2143feb,"Romero, Scott and Gilbert",Healthcare,LOW,Philippines,Masonmouth,2026-02-28
+0f6e50fd-defc-4021-baaf-9d56a97009e6,Romero and Sons,Retail,LOW,Philippines,New Lori,2026-01-02
+6d48b1b5-ae09-4c69-bfe7-19a230dfcd7b,Smith-Browning,Travel,LOW,Philippines,Benjaminchester,2026-05-19
+29d2fdf8-cbb4-4c1e-8216-30d644d0541f,Snyder-Ball,Food,LOW,Philippines,Martinezstad,2026-05-28
+296aead8-975b-447e-a88e-b27920ac5d82,Diaz and Sons,Crypto,HIGH,Philippines,New Derekview,2026-01-02
+1d04653c-499d-4b2c-ba05-6fa2fdf18934,Cordova LLC,Travel,LOW,Philippines,West Jeremyburgh,2026-06-01
+1e3ff828-90b5-4791-9916-140e3494b323,Perkins LLC,Crypto,HIGH,Philippines,Port Jose,2026-01-09
+d4ebcdf9-94ee-4091-a8f4-72d39fbf4620,Stafford-Bowen,Travel,LOW,Philippines,Ryanhaven,2026-06-06
+7aecf173-97f4-4da8-9839-2ee5ef20d752,Miller-Morris,Retail,LOW,Philippines,Lake Kenneth,2026-05-28
+3cca885b-39e1-44ad-9c9b-1004ed39e120,Arroyo-Martinez,Travel,LOW,Philippines,East Michael,2026-06-12
+5157615a-b7c7-4606-996e-b73694947f94,"Gonzalez, Carter and Guerra",Travel,LOW,Philippines,Brownmouth,2026-06-06
+1865d8af-d751-4f23-99b2-d5695af0b63a,Pennington Ltd,Electronics,LOW,Philippines,South Kiara,2026-06-18
+994bde7e-aada-49a8-8ee9-85db3883bb11,"Smith, Johnson and Griffin",Retail,LOW,Philippines,New Tarachester,2026-01-03
+dca89db1-68fe-4d1b-be0a-c74f881ede38,Yates-Thornton,Retail,LOW,Philippines,Mariaborough,2026-04-02
+a2d96edd-cd70-494f-8291-d29506ecb15c,Henry Ltd,Travel,LOW,Philippines,Port Anthonyfort,2026-01-17
+8cc7be76-14f1-4fb8-a287-08862706522c,Barajas-Wagner,Electronics,LOW,Philippines,Annview,2026-02-02
+d0bbc62b-e5e1-4636-b963-9802a3c1eee7,"Torres, Peterson and Perez",Travel,LOW,Philippines,Katherinetown,2026-02-03
+f737ba6d-c2de-44e8-bacc-e8ae55e0a25d,Howell-Smith,Wire Transfer,HIGH,Philippines,Port Daniel,2026-06-18
+279a9606-65e8-4bee-ace9-b5bfeaf51a0a,"King, Jones and Berger",Food,LOW,Philippines,Kaylafort,2026-04-04
+4f6338b1-ec5d-4752-ac5e-ccec94bb7de1,"Russell, Velazquez and Mendoza",Travel,LOW,Philippines,South Kellifurt,2026-03-13
+6501e86a-4714-4391-814c-063600a98c55,"Robertson, Oliver and Mitchell",Electronics,LOW,Philippines,New Melissa,2026-01-18
+b9a1fe9f-1eac-4329-bfc7-c85ef31c3fed,"Riley, Hughes and Ashley",Electronics,LOW,Philippines,Port Travis,2026-03-30
+8c6f0768-9e6f-48db-8d39-cd08b0f31f0e,Nichols-Arnold,Food,LOW,Philippines,South Denise,2026-04-13
+a7e6be19-ae63-48f6-a1fd-f384965eb178,Lopez PLC,Travel,LOW,Philippines,Bennetthaven,2026-03-08
+31ed1eab-2f1b-48b1-974c-38b0b9d0309f,"Austin, Barker and Gonzales",Food,LOW,Philippines,Port Wesleyville,2026-02-09
+e44ec7b9-cda3-4c38-9fe2-e832d296b656,Jones-Golden,Wire Transfer,HIGH,Philippines,Adamsfort,2026-02-14
+1f9e2de3-a8da-4ea8-85b5-2d99ebb04ba8,"Bennett, Leon and Herman",Retail,LOW,Philippines,Port Christina,2026-04-20
+3d89fb02-ebd2-41ec-8e20-91955940ce96,"Dunn, Soto and Macdonald",Electronics,LOW,Philippines,Tamarashire,2026-05-20
+ac114da2-11e0-430c-9b37-ec91c9b0e8fa,Maddox and Sons,Travel,LOW,Philippines,Lake Steven,2026-03-06
+b1f61ddb-54c0-44ef-bf4a-a51c0572f812,Rose-Russell,Gambling,HIGH,Philippines,Wendytown,2026-01-01
+633d9cbc-ccf2-422a-ab31-eb4653da12be,"Hill, Murphy and Morton",Food,LOW,Philippines,New Frank,2026-01-22
+bab30bb1-8a71-4013-adbd-96b56d461143,Rivas-Smith,Healthcare,LOW,Philippines,South Valerie,2026-04-01
+0dd5f158-1c16-41b4-ae2e-9f4418a66877,Cooper-Zuniga,Retail,LOW,Philippines,Carlosfort,2026-01-31
+2c2de469-02f8-41aa-8531-eda304087020,Rose and Sons,Electronics,LOW,Philippines,Alexisport,2026-02-26
+26ae30fc-480b-4e21-b173-5b551b187a5c,Gonzalez Ltd,Travel,LOW,Philippines,Carterstad,2026-02-07
+81a26eec-bdef-4344-8f38-206617520e33,"Kelly, Cunningham and Johnston",Electronics,LOW,Philippines,West Gary,2026-03-09
+2371909f-b8f0-40f3-94d4-f06cb61940be,Lee-Dickerson,Travel,LOW,Philippines,Lake Bradley,2026-05-24
+adf63f69-2b3e-49dd-8276-40ebd4acef4a,"Tapia, Mueller and Martinez",Travel,LOW,Philippines,Port Cherylfort,2026-05-17
+9c45a1e7-404e-48e5-a523-0b5db4b5430d,Wilson-Webb,Travel,LOW,Philippines,Port Carrie,2026-03-20
+40ec8557-a654-4261-9f80-8e875378b34d,Sanchez LLC,Food,LOW,Philippines,South Ashleyhaven,2026-05-22
+260f3dff-b9f8-45af-b421-9dcc71c6ff7a,Williams-Morse,Crypto,HIGH,Philippines,New Garyview,2026-01-02
+89078525-c3b7-4e05-b4b6-00551e794d21,Stevens-Allen,Retail,LOW,Philippines,East Troyfurt,2026-02-28
+28658d32-ba3c-486c-937c-4a1d84404b81,"Jordan, Sanchez and Hammond",Food,LOW,Philippines,Lake Joannabury,2026-01-23
+997c2536-60b1-4c5c-9963-f54cb74dc421,Curtis-Phillips,Retail,LOW,Philippines,Michaelview,2026-04-17
+4b043da9-9805-4730-a85f-08c65a03ba18,"Johnson, Pugh and Stanley",Travel,LOW,Philippines,Spencershire,2026-01-22
+7202fcde-ea4a-4e7b-93ad-643a1f0a94fe,Myers-Cooper,Retail,LOW,Philippines,Youngbury,2026-06-13
+b5194f84-3781-48cf-aca2-69448df07fb0,Ayers LLC,Retail,LOW,Philippines,Mendozaview,2026-06-10
+e0d8a5b9-dcd8-48a9-96c1-6e30a717ff73,Kane-Figueroa,Crypto,HIGH,Philippines,Lake Gregoryton,2026-04-22
+e1f5dfb4-6ac6-44e2-937f-3db567344b4d,Williams Ltd,Travel,LOW,Philippines,Lake Carmen,2026-01-27
+febf9ee4-fb69-4774-ad97-0d9beddce0dc,Johnson-Cunningham,Healthcare,LOW,Philippines,Christopherhaven,2026-03-09
+4ec5a7cb-3166-4314-941c-44ae9ff07365,Lewis-Fuller,Crypto,HIGH,Philippines,Port Jessemouth,2026-05-24
+6a56bc5a-4c54-4eab-b0a5-d6ffe6262caf,Larson PLC,Electronics,LOW,Philippines,East Patriciaville,2026-04-27
+29769ba9-1cd3-4262-ab81-1d24c4abba69,"Long, Chavez and Marshall",Food,LOW,Philippines,New Courtneybury,2026-04-18
+ac571eba-0426-46ae-94b6-d6a7e02b6ea3,"Robinson, Harmon and Kelly",Healthcare,LOW,Philippines,Andersonside,2026-03-01
+922520ef-1168-4bf0-b783-ed3ecaa724e8,Lawson Ltd,Retail,LOW,Philippines,North Davidburgh,2026-01-01
+6c6f7346-1eaa-4437-9beb-3f894191e46f,"Harris, Johnson and Owens",Food,LOW,Philippines,South April,2026-01-04
+ad24ae65-3d7b-417b-b3e5-1de5f2df0e34,Kelly-Williamson,Electronics,LOW,Philippines,Paulmouth,2026-04-11
+dcba013b-023e-42d1-adc6-c8944789244e,Mclean Ltd,Food,LOW,Philippines,South Eric,2026-02-09
+dc76c557-c795-41e9-a030-3d690d4b00af,Lawson-Davis,Retail,LOW,Philippines,North Leahland,2026-05-21
+0be19ea5-f3c3-49e5-a81f-14ae0ecc4e01,White Inc,Food,LOW,Philippines,Edwardview,2026-06-05
+f068ae0c-c33d-4a69-945f-0507baf653b8,"Goodwin, Larson and Spencer",Electronics,LOW,Philippines,Davisborough,2026-04-14
+30586b4b-b3e0-4d4e-ad79-80e802de8e42,Mcintosh-Perez,Travel,LOW,Philippines,Lake Brandonborough,2026-01-04
+7fe8cad2-af28-49cf-bc0b-36647db1c280,Johnson-Reid,Electronics,LOW,Philippines,Lake Robertmouth,2026-05-18
+35c7f1de-4175-4ed1-950b-b47ec11706e3,Walls-Harris,Healthcare,LOW,Philippines,Jonesmouth,2026-05-27
+572258da-c646-4eb5-925c-d5cd05f271b4,Harris Group,Food,LOW,Philippines,Brownshire,2026-02-03
+e26d348f-35ec-4260-9846-2bd02b746ec2,Peterson and Sons,Retail,LOW,Philippines,Nicholasbury,2026-01-26
+f773fbb2-71b9-48e2-a4d4-71834eb23f75,"Heath, Henderson and Hall",Travel,LOW,Philippines,Wilsonview,2026-01-04
+dfa2848f-1fef-4fc2-87fc-9d59b1c1a7c1,"Bonilla, Harvey and Dalton",Retail,LOW,Philippines,North Emily,2026-05-02

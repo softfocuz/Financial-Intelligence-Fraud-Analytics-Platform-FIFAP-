@@ -1,0 +1,9 @@
+rule_id,rule_name,description,score,threshold_value,threshold_unit,is_active,created_at,updated_at
+3859c15b-eb7d-467b-b444-f8af7bda9f91,Rapid transaction burst,More than 5 transactions in 60 minutes,40,5,count,True,2026-05-26,2026-04-09
+7d6e4275-4688-43bc-a86b-0e1308855c12,Abnormally high amount,Purchase is more than 3 times what the customer normally spends,35,3,multiplier,True,2026-02-21,2026-06-16
+60be4411-39af-4daf-a5ed-c2ac1a92ff97,Rapid consecutive transfers,More than 3 transfers in 10 minutes,30,3,count,True,2026-03-15,2026-02-21
+9cb42770-898d-420d-90c8-cdccebb13eec,Unrecognized device,Customer pays using a device they have never used before,30,1,device,True,2026-03-07,2026-01-09
+448d57e8-663a-44b8-a434-f66dc97a0d5b,Multiple failed logins,More than 3 failed logins in 30 minutes,25,3,count,True,2026-02-09,2026-01-21
+352cdf30-5882-4d95-bc9a-e6b44460cf0e,Unusual transaction location,More than 500km from last known location,25,500,km,True,2026-01-23,2026-03-07
+7978cdd4-4869-46b9-b5c2-fc58cfdaa700,Middle-of-the-night transaction,Transaction happens between 12AM and 5AM with no history of night spending,20,5,hours,True,2026-06-10,2026-03-06
+9cd22094-8805-425d-97ec-7c9ad99abbd4,High-risk merchant,Merchant is in a high-risk category,20,1,category,True,2026-03-30,2026-05-30
