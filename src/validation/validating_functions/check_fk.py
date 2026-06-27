@@ -1,5 +1,5 @@
-from config import CRITICAL
-from flag import flag
+from validating_functions.config import CRITICAL
+from validating_functions.flag import flag
 
 def check_fk(df, table, fk_col, parent_df, pk_col, level=CRITICAL):
     orphans = ~df[fk_col].isin(parent_df[pk_col])

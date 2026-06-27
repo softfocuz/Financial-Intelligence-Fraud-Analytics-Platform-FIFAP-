@@ -1,8 +1,8 @@
-from config import CRITICAL
-from flag import flag
+from validating_functions.config import CRITICAL
+from validating_functions.flag import flag
 
-def check_duplicates(df, table, column,allowed, level=CRITICAL):
-    invalid = ~df[column].isin(allowed)
-    if invalid.sum() > 0:
-        return [flag(level, table, f'{invalid.sum()} invalid values in {column}: {df[column][invalid].unique().tolist()}')]
+def check_duplicates(df, table, column, level=CRITICAL):
+    n = df[column].duplicated().sum()
+    if n > 0:
+        return [flag(level, table, f"{n} duplicate values in '{column}'")]
     return []

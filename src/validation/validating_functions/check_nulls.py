@@ -1,5 +1,5 @@
-from config import CRITICAL
-from flag import flag
+from validating_functions.config import CRITICAL
+from validating_functions.flag import flag
 
 def check_nulls(df, table, columns, level=CRITICAL):
     issues = []
