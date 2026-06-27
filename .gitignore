@@ -4,7 +4,6 @@ data/exports/
 data/processed/
 data/raw/
 
-src/
 src/ingestion/
 
 # data/raw/ specific directories - 12 tables
@@ -21,20 +20,8 @@ data/raw/merchants.csv
 data/raw/transaction_legs.csv
 data/raw/transactions.csv
 
-# src/ingestion/ specfic directories - 12 tables, running data
-src/ingestion/accounts_generate.py
-src/ingestion/alert_rules_generate.py
-src/ingestion/audit_logs_generate.py
-src/ingestion/cards_generate.py
-src/ingestion/customers_generate.py
-src/ingestion/devices_generate.py
-src/ingestion/fraud_alerts_generate.py
-src/ingestion/fraud_analysis_generate.py
-src/ingestion/generate.py
-src/ingestion/login_history_generate.py
-src/ingestion/merchants_generate.py
-src/ingestion/transaction_legs_generate.py
-src/ingestion/transactions_generate.py
-
 # notebook - testing file
 tests/notebook.ipynb
+
+# env
+.env
