@@ -23,3 +23,4 @@ def validate_cards(df, accounts_df):
     past_expiry = (pd.to_datetime(active["expiry_date"]) < pd.Timestamp.today()).sum()
     if past_expiry > 0:
         issues.append(flag(WARNING, "cards", f"{past_expiry} ACTIVE/BLOCKED cards with a past expiry date"))
+    return issues
