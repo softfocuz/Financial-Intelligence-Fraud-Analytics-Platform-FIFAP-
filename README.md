@@ -50,7 +50,7 @@ an alert when something looks wrong.
 ## Tech Stack
 
     - Python
-    -PostgreSQL
+    - PostgreSQL
     - SQLAlchemy
     - Psycopg2 
     - Pandas 
@@ -148,7 +148,7 @@ one transaction can trigger multiple rules and accumulate a high score.
 
 ## Author
 
-**[Clarise C. Tan]**
+**Clarise C. Tan**
 Aspiring Data Analyst
 
 - A 2nd Year College Computer Science Student
